@@ -1,0 +1,15 @@
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\obj\Debug\Advauthority.exe
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\obj\Debug\Advauthority.pdb
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\bin\Debug\Advauthority.exe
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\bin\Debug\Advauthority.pdb
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\obj\Debug\Advauthority.csprojResolveAssemblyReference.cache
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\obj\Debug\Advauthority.subject.resources
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\obj\Debug\Advauthority.Properties.Resources.resources
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\obj\Debug\Advauthority.csproj.GenerateResource.Cache
+C:\Users\add\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\bin\Debug\Advauthority.exe
+C:\Users\add\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\bin\Debug\Advauthority.pdb
+C:\Users\add\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\obj\Debug\Advauthority.subject.resources
+C:\Users\add\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\obj\Debug\Advauthority.Properties.Resources.resources
+C:\Users\add\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\obj\Debug\Advauthority.csproj.GenerateResource.Cache
+C:\Users\add\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\obj\Debug\Advauthority.exe
+C:\Users\add\Documents\Visual Studio 2015\Projects\Advauthority\Advauthority\obj\Debug\Advauthority.pdb
